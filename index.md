@@ -1,5 +1,5 @@
-## Experience
-I have been a developer on Roblox for 3 years now. With lots of experience working back and front end Programming, i am comftorably adapted to LUA and the Roblox API.
+# Introduction
+Hi! Im 3gdata. I have been a developer on Roblox for 3 years now. With lots of experience working back and front end Programming, i am comftorably adapted to LUA and the Roblox API. I look forward to working with you :)
 
 # Notable Creations
 ## Fully Customisable Weather System.
