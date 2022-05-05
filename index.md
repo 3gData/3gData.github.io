@@ -7,8 +7,6 @@ This system has many types of weather, all mixable depending on settings. For ex
  
  https://user-images.githubusercontent.com/91347920/166931597-ed757bd9-8c55-40ab-8106-c45d6a3b4de7.mp4
  
-<iframe src="https://player.vimeo.com/video/706525049?h=708e22862f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="2022-05-05_14-10-43.mp4"></iframe>
- 
 # Previous Work
 
 ## Sound-Responsive Zombies.
