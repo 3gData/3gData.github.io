@@ -5,6 +5,8 @@ I have been a developer on Roblox for 3 years now. With lots of experience worki
 
 # Notable Creations
  ### Fully Customisable Weather System.
+ This system has many types of weather, all mixable depending on settings. For example, It can just be "Sunny". But it can also be "Fog-Rain" or "Lightning-HeavyRain". There are multiple different types of weather combinations, all selected based on Random Chance at randomised preset intervals.
+ 
 # Previous Work
  
 
