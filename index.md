@@ -19,7 +19,7 @@ Biomes are generated using a combination of temperature and voronoi diagrams / w
 # Previous Work
 
 ## Sound-Responsive Zombies.
-A fun little project in which i worked on for a while, These zombies listen out for sounds played and also have sight. Pretty cool right? Created with almost no assets and within a day.
+A fun little project in which i worked on, These zombies listen out for sounds played and also have sight. Pretty cool right? Created with almost no assets and within a day.
 
 <video src="https://user-images.githubusercontent.com/91347920/166917287-f3764adb-db74-45a7-9ea3-23a67df0cdf2.mp4" controls="controls" style="max-width: 730px;">
 </video>
