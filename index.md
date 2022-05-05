@@ -18,7 +18,8 @@ A fun little project in which i worked on for a while, These zombies listen out 
 
 ## Todoroki Ice Skill
 
-https://user-images.githubusercontent.com/91347920/166917294-42efbb32-da8f-4c3b-8df0-cb7a96f88fc9.mp4
+<video src="https://user-images.githubusercontent.com/91347920/166917294-42efbb32-da8f-4c3b-8df0-cb7a96f88fc9.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 An ice skill from the anime "BNHA" from the character "Todoroki". The user shoots spikes from their character, inflicting a stun+damage on the enemy.\
 **The only asset in this video is my programming. All other assets are owned by other partys.**
@@ -29,21 +30,25 @@ All Lighting and building and Scripting is done by me.
 
 **Night**
 
-https://user-images.githubusercontent.com/91347920/166917296-db377990-dbb0-4a7b-bcfa-78fc7aed916a.mp4
+<video src="https://user-images.githubusercontent.com/91347920/166917296-db377990-dbb0-4a7b-bcfa-78fc7aed916a.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 **Day**
 
-https://user-images.githubusercontent.com/91347920/166917299-2da757fe-577d-4638-9642-292b7729cbe8.mp4
+<video src="https://user-images.githubusercontent.com/91347920/166917299-2da757fe-577d-4638-9642-292b7729cbe8.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ## Terrain-Tool
 Earlier this year, i decided to create a terrain tool, Inspired by the game "Astroneer".
 
-https://user-images.githubusercontent.com/91347920/166917302-0459e6f8-e29f-4049-850a-3aa23368d152.mp4
+<video src="https://user-images.githubusercontent.com/91347920/166917302-0459e6f8-e29f-4049-850a-3aa23368d152.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ## VR-Camera
 A Horror-Themed game with a VR Camera and Eerie lighting. All assets created by me. Inspired by my mind!
 
-https://user-images.githubusercontent.com/91347920/166917304-87f40039-d343-44ce-aa5c-4bb95198d7ce.mp4
+<video src="https://user-images.githubusercontent.com/91347920/166917304-87f40039-d343-44ce-aa5c-4bb95198d7ce.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ```markdown
 Syntax highlighted code block
