@@ -1,15 +1,15 @@
 ## Welcome to 3gData's Portofolio.
-<video src = "https://vimeo.com/706495887" controls="controls" style="max-width: 350px;"><\video>
-<video src="https://cdn.discordapp.com/attachments/937407541015625808/943964462271053824/2021-08-22_17-30-18-1.mp4" controls="controls" style="max-width: 350px;">
-</video>
-<video src="https://cdn.discordapp.com/attachments/937407541015625808/943964463210594334/2021-08-30_00-25-34-2.mp4" controls="controls" style="max-width: 350px;">
-</video>
-<video src="https://cdn.discordapp.com/attachments/937407541015625808/943964463881679008/2021-09-09_21-57-01-1.mp4" controls="controls" style="max-width: 350px;">
-</video>
-<video src="https://cdn.discordapp.com/attachments/937407541015625808/943964262911606815/2021-08-27_22-30-53.mp4" controls="controls" style="max-width: 350px;">
-</video>
-<video src="https://cdn.discordapp.com/attachments/937407541015625808/943964263653982268/2021-12-01_17-23-22.mp4" controls="controls" style="max-width: 350px;">
-</video>
+
+
+https://user-images.githubusercontent.com/91347920/166917287-f3764adb-db74-45a7-9ea3-23a67df0cdf2.mp4
+https://user-images.githubusercontent.com/91347920/166917294-42efbb32-da8f-4c3b-8df0-cb7a96f88fc9.mp4
+https://user-images.githubusercontent.com/91347920/166917296-db377990-dbb0-4a7b-bcfa-78fc7aed916a.mp4
+https://user-images.githubusercontent.com/91347920/166917299-2da757fe-577d-4638-9642-292b7729cbe8.mp4
+https://user-images.githubusercontent.com/91347920/166917302-0459e6f8-e29f-4049-850a-3aa23368d152.mp4
+https://user-images.githubusercontent.com/91347920/166917304-87f40039-d343-44ce-aa5c-4bb95198d7ce.mp4
+https://user-images.githubusercontent.com/91347920/166917370-871b594b-f598-4b6d-b537-738fa5053457.mp4
+
+
 
 ### Experience
 I have been a developer on Roblox for 3 years now. With lots of experience working back and front end Programming, i am comftorably adapted to LUA and the Roblox API.
