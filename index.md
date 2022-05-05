@@ -1,13 +1,5 @@
 ## Welcome to 3gData's Portofolio.
 
-### Experience
-I have been a developer on Roblox for 3 years now. With lots of experience working back and front end Programming, i am comftorably adapted to LUA and the Roblox API.
-
-## Previous Experience
-
-# Terrain-Tool
-Earlier this year, i decided to create a terrain tool, Inspired by the game "Astroneer".
-
 <video src="https://cdn.discordapp.com/attachments/937407541015625808/943964461465759775/2021-08-30_00-22-20-2.mp4" controls="controls" style="max-width: 350px;">
 </video>
 <video src="https://cdn.discordapp.com/attachments/937407541015625808/943964462271053824/2021-08-22_17-30-18-1.mp4" controls="controls" style="max-width: 350px;">
@@ -21,6 +13,13 @@ Earlier this year, i decided to create a terrain tool, Inspired by the game "Ast
 <video src="https://cdn.discordapp.com/attachments/937407541015625808/943964263653982268/2021-12-01_17-23-22.mp4" controls="controls" style="max-width: 350px;">
 </video>
 
+### Experience
+I have been a developer on Roblox for 3 years now. With lots of experience working back and front end Programming, i am comftorably adapted to LUA and the Roblox API.
+
+## Previous Experience
+
+# Terrain-Tool
+Earlier this year, i decided to create a terrain tool, Inspired by the game "Astroneer".
 ```markdown
 Syntax highlighted code block
 
