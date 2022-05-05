@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to 3gData's Portofolio.
 
-You can use the [editor on GitHub](https://github.com/3gData/3gData.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+###Experience
+I have been a developer on Roblox for 3 years now. With lots of experience working back and front end Programming, i am comftorably adapted to LUA and the Roblox API.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
