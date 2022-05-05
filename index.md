@@ -7,7 +7,18 @@ I have been a developer on Roblox for 3 years now. With lots of experience worki
 
 # Terrain-Tool
 Earlier this year, i decided to create a terrain tool, Inspired by the game "Astroneer".
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
+
+<video src="https://cdn.discordapp.com/attachments/937407541015625808/943964461465759775/2021-08-30_00-22-20-2.mp4" controls="controls" style="max-width: 350px;">
+</video>
+<video src="https://cdn.discordapp.com/attachments/937407541015625808/943964462271053824/2021-08-22_17-30-18-1.mp4" controls="controls" style="max-width: 350px;">
+</video>
+<video src="https://cdn.discordapp.com/attachments/937407541015625808/943964463210594334/2021-08-30_00-25-34-2.mp4" controls="controls" style="max-width: 350px;">
+</video>
+<video src="https://cdn.discordapp.com/attachments/937407541015625808/943964463881679008/2021-09-09_21-57-01-1.mp4" controls="controls" style="max-width: 350px;">
+</video>
+<video src="https://cdn.discordapp.com/attachments/937407541015625808/943964262911606815/2021-08-27_22-30-53.mp4" controls="controls" style="max-width: 350px;">
+</video>
+<video src="https://cdn.discordapp.com/attachments/937407541015625808/943964263653982268/2021-12-01_17-23-22.mp4" controls="controls" style="max-width: 350px;">
 </video>
 
 ```markdown
