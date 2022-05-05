@@ -1,5 +1,3 @@
-# Welcome to 3gData's Portofolio.
-
 ## Experience
 I have been a developer on Roblox for 3 years now. With lots of experience working back and front end Programming, i am comftorably adapted to LUA and the Roblox API.
 
