@@ -5,10 +5,11 @@ Hi! Im 3gData. I have been a developer on Roblox for 3 years now. With lots of e
 ## Fully Customisable Weather System.
 This system has many types of weather, all mixable depending on settings. For example, It can just be "Sunny". But it can also be "Fog-Rain" or "Lightning-HeavyRain". There are multiple different types of weather combinations, all selected based on Random Chance at randomised preset intervals.
  
+ https://user-images.githubusercontent.com/91347920/166931597-ed757bd9-8c55-40ab-8106-c45d6a3b4de7.mp4
+ 
 <iframe src="https://player.vimeo.com/video/706525049?h=708e22862f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="2022-05-05_14-10-43.mp4"></iframe>
  
 # Previous Work
- 
 
 ## Sound-Responsive Zombies.
 A fun little project in which i worked on for a while, These zombies listen out for sounds played and also have sight. Pretty cool right? Created with almost no assets and within a day.
