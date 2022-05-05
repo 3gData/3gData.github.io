@@ -1,6 +1,13 @@
 # Introduction
 Hi! Im 3gData. I have been a developer on Roblox for 3 years now. With lots of experience with back and front end Programming, i am comfortably adapted to LUA and the Roblox API; I look forward to working with you :)
 
+# Experience
+## RoEmpires
+Lead Programmer & Developer 
+**2021 - Present**
+Programmed most game features.
+View Game: [Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)
+
 # Notable Creations
 ## Fully Customisable Weather System.
 This system has many types of weather, all mixable depending on settings. For example, It can just be "Sunny". But it can also be "Fog-Rain" or "Lightning-HeavyRain". There are multiple different types of weather combinations, all selected based on Random Chance at randomised preset intervals.
