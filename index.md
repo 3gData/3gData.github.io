@@ -1,8 +1,5 @@
 ## Welcome to 3gData's Portofolio.
-
-<iframe src="https://player.vimeo.com/video/706495887?h=a927a2ff33&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="2021-08-30_00-22-20-2.mp4"></iframe>
-
-</video>
+<video src = "https://vimeo.com/706495887" controls="controls" style="max-width: 350px;"><\video>
 <video src="https://cdn.discordapp.com/attachments/937407541015625808/943964462271053824/2021-08-22_17-30-18-1.mp4" controls="controls" style="max-width: 350px;">
 </video>
 <video src="https://cdn.discordapp.com/attachments/937407541015625808/943964463210594334/2021-08-30_00-25-34-2.mp4" controls="controls" style="max-width: 350px;">
