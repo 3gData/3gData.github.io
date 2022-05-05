@@ -5,7 +5,8 @@ Hi! Im 3gData. I have been a developer on Roblox for 3 years now. With lots of e
 ## Fully Customisable Weather System.
 This system has many types of weather, all mixable depending on settings. For example, It can just be "Sunny". But it can also be "Fog-Rain" or "Lightning-HeavyRain". There are multiple different types of weather combinations, all selected based on Random Chance at randomised preset intervals.
  
- https://user-images.githubusercontent.com/91347920/166931597-ed757bd9-8c55-40ab-8106-c45d6a3b4de7.mp4
+<video src="https://user-images.githubusercontent.com/91347920/166931597-ed757bd9-8c55-40ab-8106-c45d6a3b4de7.mp4" controls="controls" style="max-width: 730px;">
+</video>
  
 # Previous Work
 
