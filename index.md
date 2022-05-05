@@ -1,6 +1,9 @@
 ## Welcome to 3gData's Portofolio.
 
+### Experience
+I have been a developer on Roblox for 3 years now. With lots of experience working back and front end Programming, i am comftorably adapted to LUA and the Roblox API.
 
+## Previous Work
 # Sound-Responsive Zombies.
 A fun little project in which i worked on for a while, These zombies listen out for sounds played and also have sight. Pretty cool right? Created with almost no assets and within a day.
 
@@ -30,16 +33,11 @@ Earlier this year, i decided to create a terrain tool, Inspired by the game "Ast
 
 https://user-images.githubusercontent.com/91347920/166917302-0459e6f8-e29f-4049-850a-3aa23368d152.mp4
 
+# VR-Camera
+A Horror-Themed game with a VR Camera and Eerie lighting. All assets created by me. Inspired by my mind!
+
 https://user-images.githubusercontent.com/91347920/166917304-87f40039-d343-44ce-aa5c-4bb95198d7ce.mp4
 
-https://user-images.githubusercontent.com/91347920/166917370-871b594b-f598-4b6d-b537-738fa5053457.mp4
-
-
-
-### Experience
-I have been a developer on Roblox for 3 years now. With lots of experience working back and front end Programming, i am comftorably adapted to LUA and the Roblox API.
-
-## Previous Experience
 ```markdown
 Syntax highlighted code block
 
