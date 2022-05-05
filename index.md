@@ -3,7 +3,7 @@ Hi! Im 3gData. I have been a developer on Roblox for 3 years now. With lots of e
 
 # Experience
 ## RoEmpires
-***Lead Programmer & Developer ***
+***Lead Programmer & Developer***
 **2021 - Present**
 Programmed most game features.\
 View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**
