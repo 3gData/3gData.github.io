@@ -12,7 +12,7 @@ View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**
 
 # Notable Creations
 ## Fully Customisable Weather System.
-This system has many types of weather, all mixable depending on settings. For example, It can just be "Sunny". But it can also be "Fog-Rain" or "Lightning-HeavyRain". There are multiple different types of weather combinations, all selected based on Random Chance at randomised preset intervals.
+A system complete with mixed-weather-capabilities, mixed weather is defined from preset weather combinations. Highly advanced and uses Atmospheric and Lighting effects.
  
 <video src="https://user-images.githubusercontent.com/91347920/166931597-ed757bd9-8c55-40ab-8106-c45d6a3b4de7.mp4" controls="controls" style="max-width: 730px;">
 </video>
