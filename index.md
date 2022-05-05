@@ -8,6 +8,13 @@ This system has many types of weather, all mixable depending on settings. For ex
 <video src="https://user-images.githubusercontent.com/91347920/166931597-ed757bd9-8c55-40ab-8106-c45d6a3b4de7.mp4" controls="controls" style="max-width: 730px;">
 </video>
  
+ ## Procedural Generation System.
+ This system uses a combination of Fractal Brownian Motion and other algorithms to create different terrain based on Biomes.\
+ Biomes are generated using a combination of temperature and voronoi diagrams / worley noise.
+ 
+ ![image](https://user-images.githubusercontent.com/91347920/166935095-eca1faa9-ddc4-47ad-be44-8191681b34d0.png)
+
+ 
 # Previous Work
 
 ## Sound-Responsive Zombies.
