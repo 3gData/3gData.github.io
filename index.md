@@ -5,7 +5,7 @@ Hi! Im 3gData. I have been a developer on Roblox for 3 years now. With lots of e
 ## RoEmpires
 ***Lead Programmer & Developer***
 **2021 - Present**\
-Programmed most game features.\
+Lead programmer, Systems coordinator. At RoEmpires, Working as the Lead Programmer, it is my role to Program the game alongside managing the github. Furthermore, it is also my role to ensure that all scripters are working to their full potential, Including managing applicants.\
 View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**
 
 ## Metablox Productions
