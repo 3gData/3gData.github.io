@@ -8,6 +8,12 @@ Hi! Im 3gData. I have been a developer on Roblox for 3 years now. With lots of e
 Programmed most game features.\
 View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**
 
+## Metablox Productions
+**2022 - 2022**\
+Unfortunately, this project was discontinued due to some management issues, Although i did create some systems for them.
+Group Can be found **[Here](https://www.roblox.com/groups/8267330/Metablox-Productions#!/about)**
+
+
 **Overall Programming - June 2019 - Present**
 
 # Notable Creations
