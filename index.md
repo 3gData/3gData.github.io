@@ -10,10 +10,15 @@ View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**
 
 ## MetaVerse Projects
 ***Programmer***
-**2022 - Present**
+**2022 - Present**\
 Programmer for this Games development studio set to begin development in 2023!
 View Discord: **[Here](https://discord.gg/GFXW5pza)**
 
+## Deliveryman Simulator
+***Commission-Based Programmer***
+**2022**\
+Worked Part-Time as a commission developer for Delivery Man Simulator!
+View Game: **[Here](https://www.roblox.com/games/7363174769/Deliveryman-Simulator)**
 
 ## Metablox Productions
 **2022 - 2022**\
