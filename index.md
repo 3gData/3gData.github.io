@@ -12,7 +12,7 @@ View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**
 ***Programmer***
 **2022 - Present**\
 Programmer for this Games development studio set to begin development in 2023!
-View Discord: **[Here](https://discord.gg/GFXW5pza)**
+View Discord: **[Here](https://discord.gg/HSavCMrupm)**
 
 ## Deliveryman Simulator
 ***Commission-Based Programmer***
