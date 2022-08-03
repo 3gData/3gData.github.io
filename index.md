@@ -1,6 +1,6 @@
 # Introduction
 Hi, I'm 3gData.\
-To put it straight, I'm a pretty damn good programmer. Working my way up from youtube and devforum, To where i stand now. Fluent in RLua, Working with the Developers whomst I admired all those years ago. Working my way up this ladder has taught me that Quality is always over quantity. Now im not going to sit here and lecture you about how good i am, Hire me and find out!
+To put it straight, I'm a pretty damn good programmer. Working my way up from youtube and devforum, To where i stand now. Fluent in RLua, Working with the Developers whomst I admired all those years ago. Working my way up this ladder, I've met you! Now im not going to sit here and lecture you about how good i am, Hire me and find out!
 
 # Experience
 ## RoEmpires
