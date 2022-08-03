@@ -33,7 +33,7 @@ Group Can be found **[Here](https://www.roblox.com/groups/8267330/Metablox-Produ
 
 ## Anime Lightning Move
 Created in one hour, with one decal, I present to you one of my most refined skills yet.
-You can view this skill **[Here]**(https://streamable.com/immatp)
+You can view this skill **[Here](https://streamable.com/immatp)**
 
 ## Fully Customisable Weather System.
 A system complete with mixed-weather-capabilities, mixed weather is defined from preset weather combinations. Highly advanced and uses Atmospheric and Lighting effects.
