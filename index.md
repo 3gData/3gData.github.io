@@ -4,14 +4,15 @@ Hi! Im 3gData. I have been a developer on Roblox for 3 years now. With lots of e
 # Experience
 ## RoEmpires
 ***Lead Programmer & Developer***
-**2021 - Present**\
+**September 2021 - August 2022**\
 Lead programmer, Systems coordinator, Employee At RoEmpires. Working as the Lead Programmer, it is my role to Program the game alongside managing the github. Furthermore, it is also my role to ensure that all scripters are working to their full potential, Including management of applicants.\
 View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**
 
 ## MetaVerse Projects
 ***Programmer***
-**2022 - Present**\
+**2022 - 2022**\
 Programmer for this Games development studio set to begin development in 2023!
+Unfortunately, like other meta-projects, it was unexpectadly cancelled!
 View Discord: **[Here](https://discord.gg/HSavCMrupm)**
 
 ## Deliveryman Simulator
@@ -29,6 +30,12 @@ Group Can be found **[Here](https://www.roblox.com/groups/8267330/Metablox-Produ
 **Overall Programming - June 2019 - Present**
 
 # Notable Creations
+
+## Anime Lightning Move
+Created in one hour, with one decal, I present to you one of my most refined skills yet.
+<video src="https://streamable.com/immatp" controls="controls" style="max-width: 730px;">
+</video>
+
 ## Fully Customisable Weather System.
 A system complete with mixed-weather-capabilities, mixed weather is defined from preset weather combinations. Highly advanced and uses Atmospheric and Lighting effects.
  
