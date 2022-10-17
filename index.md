@@ -1,8 +1,17 @@
 # Introduction
 Hi, I'm 3gData.\
-To put it straight, I'm a pretty damn good programmer. Working my way up from youtube and devforum, To where i stand now. Fluent in LuaU, Working with the Developers whomst I admired all those years ago. Working my way up this ladder, I've met you! Now im not going to sit here and lecture you about how good i am, Hire me and find out!
+To put it straight, I'm a pretty damn good programmer. Working my way up from Youtube and Devforum, To where i stand now. Fluent in LuaU, Working with the Developers whomst I admired all those years ago. Working my way up this ladder, I've met you! Now im not going to sit here and lecture you about how good i am, hire me and find out!
 
 # Experience
+
+## Sword Factory X
+***Programmer***
+**October 2022 - Present**
+Working on Maintenence and Updates!
+View Game: **[Here](https://www.roblox.com/games/9103460924/HALLOWEEN-Sword-Factory-X)**
+Group: **[Here](https://www.roblox.com/groups/1164957/TopTier-Games#!/about)**
+
+
 ## RoEmpires
 ***Lead Programmer & Developer***
 **September 2021 - August 2022**\
@@ -11,8 +20,8 @@ View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**
 
 ## Crossed Inc
 **Lead Developer**
-**2022 - Present**\
-Working to revamp a game for Crossed Inc!
+**2022 - 2022**\
+Worked to revamp a game for Crossed Inc!
 Group Link **[Here](https://www.roblox.com/groups/5197948/Crossed-Inc#!/about)**
 
 
