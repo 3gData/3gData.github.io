@@ -6,9 +6,9 @@ To put it straight, I'm a pretty damn good programmer. Working my way up from Yo
 
 ## Sword Factory X
 ***Programmer***
-**October 2022 - Present**
-Working on Maintenence and Updates!
-View Game: **[Here](https://www.roblox.com/games/9103460924/HALLOWEEN-Sword-Factory-X)**
+**October 2022 - Present**\
+Working on Maintenence and Updates!\
+View Game: **[Here](https://www.roblox.com/games/9103460924/HALLOWEEN-Sword-Factory-X)**\
 Group: **[Here](https://www.roblox.com/groups/1164957/TopTier-Games#!/about)**
 
 
