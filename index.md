@@ -6,17 +6,32 @@ To put it straight, I'm a pretty damn good programmer. Working my way up from Yo
 
 ## Sword Factory X
 ***Programmer***
-**October 2022 - Present**\
-Working on Maintenence and Updates!\
+**October 2022 - November 2022**\
+**25Million Visits**
+Worked on maintenence and updates!
 View Game: **[Here](https://www.roblox.com/games/9103460924/HALLOWEEN-Sword-Factory-X)**\
 Group: **[Here](https://www.roblox.com/groups/1164957/TopTier-Games#!/about)**
 
 
+## Fly-Race
+**Programmer & Developer**
+**November 2022 - Present**
+My job at fly race is to maintain the game, ship new content updates and fix existing bugs.\
+View Game: **[Here](https://www.roblox.com/games/6679968919/UPD-Fly-Race)**\
+Group: **[Here](https://www.roblox.com/groups/5866831/Over-the-Moon#!/about)**\
+**Visits: 56Million+**
+
 ## RoEmpires
 ***Lead Programmer & Developer***
 **September 2021 - August 2022**\
-Lead programmer, Systems coordinator, Employee At RoEmpires. Working as the Lead Programmer, it is my role to Program the game alongside managing the github. Furthermore, it is also my role to ensure that all scripters are working to their full potential, Including management of applicants.\
+Lead programmer, Systems coordinator, Employee At RoEmpires. Working as the Lead Programmer, it was my role to Program the game alongside managing the github. Furthermore, it was also my role to ensure that all scripters are working to their full potential, Including management of applicants.\
 View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**
+
+## +1 Jump Each Second
+***Previous Programmer & Developer***
+**October 2022 - October 2022**
+I programmed this game, but it was then rewritten by 2 other programmers, Though my code was still used as a base!
+**4.2Million Visits**
 
 ## Crossed Inc
 **Lead Developer**
