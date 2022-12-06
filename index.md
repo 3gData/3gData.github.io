@@ -33,7 +33,7 @@ View Game: **[Here](https://www.roblox.com/games/11379155384/HEAVEN-1-Jump-Each-
 ## RoEmpires
 ### ***Lead Programmer & Developer*** (September 2021 - August 2022)
 Lead programmer, Systems coordinator, Employee At RoEmpires. Working as the Lead Programmer, it was my role to Program the game alongside managing the github. Furthermore, it was also my role to ensure that all scripters are working to their full potential, Including management of applicants.\
-View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**
+View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**\
 **N/A Visits**
 
 ## Crossed Inc
