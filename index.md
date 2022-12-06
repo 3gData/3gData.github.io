@@ -12,15 +12,14 @@ Group: **[Here](https://www.roblox.com/groups/1164957/TopTier-Games#!/about)**
 **25 Million Visits**
 
 ## Fly-Race
-### **Programmer (November 2022 - Present)**
+### ***Programmer*** (November 2022 - Present)
 My job at fly race is to maintain the game, ship new content updates and fix existing bugs.\
 View Game: **[Here](https://www.roblox.com/games/6679968919/UPD-Fly-Race)**\
 Group: **[Here](https://www.roblox.com/groups/5866831/Over-the-Moon#!/about)**\
 **56Million Visits**
 
 ## RoEmpires
-### ***Lead Programmer & Developer***
-**September 2021 - August 2022**\
+### ***Lead Programmer & Developer*** (September 2021 - August 2022)
 Lead programmer, Systems coordinator, Employee At RoEmpires. Working as the Lead Programmer, it was my role to Program the game alongside managing the github. Furthermore, it was also my role to ensure that all scripters are working to their full potential, Including management of applicants.\
 View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**
 
