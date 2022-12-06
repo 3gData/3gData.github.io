@@ -7,11 +7,10 @@ To put it straight, I'm a pretty damn good programmer. Working my way up from Yo
 ## Sword Factory X
 ***Programmer***
 **October 2022 - November 2022**\
-*25Million Visits*\
 Worked on maintenence and updates!
 View Game: **[Here](https://www.roblox.com/games/9103460924/HALLOWEEN-Sword-Factory-X)**\
 Group: **[Here](https://www.roblox.com/groups/1164957/TopTier-Games#!/about)**
-
+**25 Million Visits**
 
 ## Fly-Race
 **Programmer & Developer**\
@@ -19,7 +18,7 @@ Group: **[Here](https://www.roblox.com/groups/1164957/TopTier-Games#!/about)**
 My job at fly race is to maintain the game, ship new content updates and fix existing bugs.\
 View Game: **[Here](https://www.roblox.com/games/6679968919/UPD-Fly-Race)**\
 Group: **[Here](https://www.roblox.com/groups/5866831/Over-the-Moon#!/about)**\
-**56Million Visits**\
+**56Million Visits**
 
 ## RoEmpires
 ***Lead Programmer & Developer***
