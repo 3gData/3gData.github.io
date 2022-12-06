@@ -8,7 +8,7 @@ To put it straight, I'm a pretty damn good programmer. Working my way up from Yo
 ### ***Programmer*** (October 2022 - November 2022)
 Worked on maintenence and updates!
 View Game: **[Here](https://www.roblox.com/games/9103460924/HALLOWEEN-Sword-Factory-X)**\
-Group: **[Here](https://www.roblox.com/groups/1164957/TopTier-Games#!/about)**
+Group: **[Here](https://www.roblox.com/groups/1164957/TopTier-Games#!/about)**\
 **25 Million Visits**
 
 ## Fly-Race
