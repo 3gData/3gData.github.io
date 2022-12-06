@@ -20,13 +20,13 @@ Group: **[Here](https://www.roblox.com/groups/5866831/Over-the-Moon#!/about)**\
 
 ## Deliveryman Simulator
 ### ***Commission-Based Programmer*** (2022)
-Worked Part-Time as a commission developer for Delivery Man Simulator!
-View Game: **[Here](https://www.roblox.com/games/7363174769/Deliveryman-Simulator)**
+Worked Part-Time as a commission developer for Delivery Man Simulator!\
+View Game: **[Here](https://www.roblox.com/games/7363174769/Deliveryman-Simulator)**\
 **78Million Visits**
 
 ## +1 Jump Each Second
 ### ***Previous Programmer & Developer*** (October 2022 - October 2022)
-I programmed this game, but it was then rewritten by 2 other programmers, Though my code was still used as a base!
+I programmed this game, but it was then rewritten by 2 other programmers, Though my code was still used as a base!\
 **4.2Million Visits**
 
 ## RoEmpires
