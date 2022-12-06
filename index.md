@@ -5,16 +5,14 @@ To put it straight, I'm a pretty damn good programmer. Working my way up from Yo
 # Experience
 
 ## Sword Factory X
-### ***Programmer***
-**October 2022 - November 2022**\
+### ***Programmer*** (October 2022 - November 2022)
 Worked on maintenence and updates!
 View Game: **[Here](https://www.roblox.com/games/9103460924/HALLOWEEN-Sword-Factory-X)**\
 Group: **[Here](https://www.roblox.com/groups/1164957/TopTier-Games#!/about)**
 **25 Million Visits**
 
 ## Fly-Race
-### **Programmer & Developer**
-**November 2022 - Present**\
+### **Programmer & Developer - November 2022 - Present**
 My job at fly race is to maintain the game, ship new content updates and fix existing bugs.\
 View Game: **[Here](https://www.roblox.com/games/6679968919/UPD-Fly-Race)**\
 Group: **[Here](https://www.roblox.com/groups/5866831/Over-the-Moon#!/about)**\
