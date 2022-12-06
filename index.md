@@ -14,8 +14,8 @@ Group: **[Here](https://www.roblox.com/groups/1164957/TopTier-Games#!/about)**
 
 
 ## Fly-Race
-**Programmer & Developer**
-**November 2022 - Present**
+**Programmer & Developer**\
+**November 2022 - Present**\
 My job at fly race is to maintain the game, ship new content updates and fix existing bugs.\
 View Game: **[Here](https://www.roblox.com/games/6679968919/UPD-Fly-Race)**\
 Group: **[Here](https://www.roblox.com/groups/5866831/Over-the-Moon#!/about)**\
