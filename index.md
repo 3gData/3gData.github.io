@@ -13,7 +13,7 @@ Group: **[Here](https://www.roblox.com/groups/1164957/TopTier-Games#!/about)**\
 
 ## Fly-Race
 ### ***Programmer*** (November 2022 - 2022)
-My job at fly race is to maintain the game, ship new content updates and fix existing bugs.\
+My job at fly race was to maintain the game, ship new content updates and fix existing bugs.\
 View Game: **[Here](https://www.roblox.com/games/6679968919/UPD-Fly-Race)**\
 Group: **[Here](https://www.roblox.com/groups/5866831/Over-the-Moon#!/about)**\
 **84illion Visits**
@@ -26,7 +26,7 @@ View Game: **[Here](https://www.roblox.com/games/7363174769/Deliveryman-Simulato
 
 ## +1 Jump Each Second
 ### ***Previous Programmer & Developer*** (October 2022 - October 2022)
-I programmed this game, but it was then rewritten by 2 other programmers, Though my code was still used as a base!\
+I programmed this game, but it was then rewritten by 2 other programmers after it was acquired. Though my code was still used as a base!\
 View Game: **[Here](https://www.roblox.com/games/11379155384/HEAVEN-1-Jump-Each-Second)**\
 **6.7Million Visits**
 
