@@ -1,6 +1,6 @@
 # Introduction
-Hi, I'm 3gData.\
-To put it straight, I'm a pretty damn good programmer. Working my way up from Youtube and Devforum, To where i stand now. Fluent in LuaU, Working with the Developers whomst I admired all those years ago. Working my way up this ladder, I've met you! Now im not going to sit here and lecture you about how good i am, hire me and find out!
+Hi, I'm 3gData.
+To put it straight, I'm a pretty damn good programmer. I have worked my way up from Youtube and Devforum to where I stand now. I am fluent in LuaU and work with the developers whom I admired all those years ago. Working my way up this ladder, I've met you! Now, I'm not going to sit here and lecture you about how good I am. Hire me and find out!
 
 # Experience
 
