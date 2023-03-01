@@ -42,21 +42,7 @@ View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**\
 Worked to revamp a game for Crossed Inc!
 Group Link **[Here](https://www.roblox.com/groups/5197948/Crossed-Inc#!/about)**
 
-
-## MetaVerse Projects
-### ***Programmer***
-**2022 - 2022**\
-Programmer for this Games development studio set to begin development in 2023!
-Unfortunately, like other meta-projects, it was unexpectadly cancelled!
-View Discord: **[Here](https://discord.gg/HSavCMrupm)**
-
-## Metablox Productions
-**2022 - 2022**\
-Unfortunately, this project was discontinued due to some management issues, Although i did create some systems for them.
-Group Can be found **[Here](https://www.roblox.com/groups/8267330/Metablox-Productions#!/about)**
-
-
-**Overall Programming - June 2019 - Present**
+**Overall Programming**
 
 # Notable Creations
 
