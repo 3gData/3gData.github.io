@@ -6,9 +6,9 @@ To put it straight, I'm a pretty damn good programmer. I have worked my way up f
 
 ## Tower Battles
 ### **Commission based Programmer** (2022)
-Commissioned to upgrade the games datastores to profileservice.\
+Commissioned to upgrade the games datastores to profileservice.
 View Game: **[Here](https://www.roblox.com/games/45146873/Tower-Battles)**\
-
+**550 Million Visits)
 ## Sword Factory X
 ### ***Programmer*** (October 2022 - November 2022)
 Worked on maintenence and updates!
