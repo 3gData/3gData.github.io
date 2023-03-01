@@ -4,6 +4,11 @@ To put it straight, I'm a pretty damn good programmer. I have worked my way up f
 
 # Experience
 
+## Tower Battles
+### **Commission based Programmer** (2022)
+Commissioned to upgrade the games datastores to profileservice.\
+View Game: **[Here](https://www.roblox.com/games/45146873/Tower-Battles)**\
+
 ## Sword Factory X
 ### ***Programmer*** (October 2022 - November 2022)
 Worked on maintenence and updates!
@@ -41,8 +46,6 @@ View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**\
 **2022 - 2022**\
 Worked to revamp a game for Crossed Inc!
 Group Link **[Here](https://www.roblox.com/groups/5197948/Crossed-Inc#!/about)**
-
-**Overall Programming**
 
 # Notable Creations
 
