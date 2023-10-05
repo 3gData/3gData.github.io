@@ -1,7 +1,7 @@
 # Introduction
 Hi, I'm 3gData.
 I've been scripting on roblox for 4 years, specialising in back-end systems, but still highly proficient in frontend scripting.
-
+My skills allow me to work on any type of project.
 # Experience
 
 ## Obby but you're on a bike
