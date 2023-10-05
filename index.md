@@ -5,7 +5,7 @@ I've been scripting on roblox for 4 years, specialising in back-end systems, but
 # Experience
 
 ## Obby but you're on a bike
-### **Programmer*** October 2023 - Present
+### **Programmer** October 2023 - Present
 Shipping new content & maintaining systems.\
 View Game: **[Here](https://www.roblox.com/games/14184086618/Obby-But-Youre-on-a-Bike)**\
 View Group: **[Here](https://www.roblox.com/groups/32357834/FORTUNE-777#!/about)**\
