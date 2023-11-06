@@ -1,6 +1,6 @@
 # Introduction
 Hi, I'm 3gData.
-I've been scripting on roblox for 4 years, specialising in back-end systems, but still highly proficient in frontend scripting.
+I've been scripting on Roblox for 4 years, specialising in back-end systems, but still highly proficient in frontend scripting.
 My skills allow me to work on any type of project.
 # Experience
 
@@ -9,24 +9,24 @@ My skills allow me to work on any type of project.
 Shipping new content & maintaining systems.\
 View Game: **[Here](https://www.roblox.com/games/14184086618/Obby-But-Youre-on-a-Bike)**\
 View Group: **[Here](https://www.roblox.com/groups/32357834/FORTUNE-777#!/about)**\
-**350 Million Visits**
+**630 Million Visits**
 
 ## Tower Battles
 ### **Commission based Programmer** (2022)
-Commissioned to upgrade the games datastores to profileservice.\
+Commissioned to upgrade the games' datastores to profile service.\
 View Game: **[Here](https://www.roblox.com/games/45146873/Tower-Battles)**\
 **550 Million Visits**
 
 ## Sword Factory X
 ### ***Programmer*** (October 2022 - November 2022)
-Worked on maintenence and updates!
+Worked on maintenance and updates!
 View Game: **[Here](https://www.roblox.com/games/9103460924/HALLOWEEN-Sword-Factory-X)**\
 Group: **[Here](https://www.roblox.com/groups/1164957/TopTier-Games#!/about)**\
 **25 Million Visits**
 
 ## Fly-Race
 ### ***Programmer*** (November 2022 - 2022)
-My job at fly race was to maintain the game, ship new content updates and fix existing bugs.\
+My job at Fly Race was to maintain the game, ship new content updates and fix existing bugs.\
 View Game: **[Here](https://www.roblox.com/games/6679968919/UPD-Fly-Race)**\
 Group: **[Here](https://www.roblox.com/groups/5866831/Over-the-Moon#!/about)**\
 **90million Visits**
@@ -45,7 +45,7 @@ View Game: **[Here](https://www.roblox.com/games/11379155384/HEAVEN-1-Jump-Each-
 
 ## RoEmpires
 ### ***Lead Programmer & Developer*** (September 2021 - August 2022)
-Lead programmer, Systems coordinator, Employee At RoEmpires. Working as the Lead Programmer, it was my role to Program the game alongside managing the github. Furthermore, it was also my role to ensure that all scripters are working to their full potential, Including management of applicants.\
+Lead programmer, Systems Coordinator, Employee At RoEmpires. Working as the Lead Programmer, my role was to Program the game alongside managing the GitHub. Furthermore, it was also my role to ensure that all scripters were working to their full potential, including the management of applicants.\
 View Game: **[Here](https://www.roblox.com/games/8254715417/BETA-RoEmpires)**\
 **N/A Visits**
 
@@ -63,14 +63,14 @@ Created in one hour, with one decal, I present to you one of my most refined ski
 <div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;"><iframe src="https://streamable.com/e/immatp" frameborder="0" width="100%" height="100%" allowfullscreen="" style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 
 ## Fully Customisable Weather System.
-A system complete with mixed-weather-capabilities, mixed weather is defined from preset weather combinations. Highly advanced and uses Atmospheric and Lighting effects.
+A system complete with mixed-weather capabilities, mixed weather is defined from preset weather combinations. Highly advanced and uses Atmospheric and Lighting effects.
  
 <video src="https://user-images.githubusercontent.com/91347920/166931597-ed757bd9-8c55-40ab-8106-c45d6a3b4de7.mp4" controls="controls" style="max-width: 730px;">
 </video>
  
 ## Procedural Generation System.
 This system uses a combination of Fractal Brownian Motion and other algorithms to create different terrain based on Biomes.\
-Biomes are generated using a combination of temperature and voronoi diagrams / worley noise.
+Biomes are generated using a combination of temperature and Voronoi diagrams / Worley noise.
  
 ![image](https://user-images.githubusercontent.com/91347920/166935095-eca1faa9-ddc4-47ad-be44-8191681b34d0.png)
 ![image](https://user-images.githubusercontent.com/91347920/166939032-07836ba2-236e-4d90-b7d6-1221830e3c93.png)
@@ -79,7 +79,7 @@ Biomes are generated using a combination of temperature and voronoi diagrams / w
 # Previous Work
 
 ## Sound-Responsive Zombies.
-A fun little project in which i worked on, These zombies listen out for sounds played and also have sight. Pretty cool right? Created with almost no assets and within a day.
+A fun little project in which I worked, These zombies listen out for sounds played and also have sight. Pretty cool right? Created with almost no assets and within a day.
 
 <video src="https://user-images.githubusercontent.com/91347920/166917287-f3764adb-db74-45a7-9ea3-23a67df0cdf2.mp4" controls="controls" style="max-width: 730px;">
 </video>
@@ -94,7 +94,7 @@ An ice skill from the anime "BNHA" from the character "Todoroki". The user shoot
 
 ## Self-Building-Bridge
 Just as it sounds! A bridge that builds itself.\
-All Lighting and building and Scripting is done by me.
+All Lighting building and Scripting are done by me.
 
 **Night**
 
@@ -107,7 +107,7 @@ All Lighting and building and Scripting is done by me.
 </video>
 
 ## Terrain-Tool
-Earlier this year, i decided to create a terrain tool, Inspired by the game "Astroneer".
+Earlier this year, I decided to create a terrain tool, Inspired by the game "Astroneer".
 
 <video src="https://user-images.githubusercontent.com/91347920/166917302-0459e6f8-e29f-4049-850a-3aa23368d152.mp4" controls="controls" style="max-width: 730px;">
 </video>
