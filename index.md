@@ -5,11 +5,11 @@ My skills allow me to work on any type of project.
 # Experience
 
 ## Obby but you're on a bike
-### **Programmer** October 2023 - Present
-Shipping new content & maintaining systems.\
+### **Programmer** October 2023 - March 2024
+Shipped new content, and designed systems to handle 100k+ CCU stress loads.
 View Game: **[Here](https://www.roblox.com/games/14184086618/Obby-But-Youre-on-a-Bike)**\
 View Group: **[Here](https://www.roblox.com/groups/32357834/FORTUNE-777#!/about)**\
-**630 Million Visits**
+**1.2 Billion Visits**
 
 ## Tower Battles
 ### **Commission based Programmer** (2022)
