@@ -3,8 +3,8 @@ import { defineConfig, type Plugin } from "vite";
 import react from "@vitejs/plugin-react";
 
 const ROBLOX_THUMBNAILS: Record<string, string> = {
-  "17984679": "https://t3.rbxcdn.com/180DAY-586d3a8e3fe2ae8314ede2cfa73c6986",
-  "2462535763": "https://t3.rbxcdn.com/180DAY-34357bdf76f29bc7791cc5853cd0ff83",
+  "39559307": "https://t3.rbxcdn.com/180DAY-586d3a8e3fe2ae8314ede2cfa73c6986",
+  "2516682908": "https://t3.rbxcdn.com/180DAY-34357bdf76f29bc7791cc5853cd0ff83",
 };
 
 function robloxThumbnailApi(): Plugin {

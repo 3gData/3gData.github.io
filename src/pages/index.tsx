@@ -159,6 +159,9 @@ export default function HomePage() {
               <motion.h2 variants={fadeUp} custom={0.1} className="text-3xl md:text-4xl font-bold font-heading text-foreground">
                 Featured Games
               </motion.h2>
+              <motion.p variants={fadeUp} custom={0.2} className="mt-4 text-sm leading-relaxed text-muted-foreground/80">
+                Click a project card to see what I contributed and when I worked on it.
+              </motion.p>
             </div>
             <motion.div variants={fadeUp} custom={0.2}>
               <Button asChild variant="outline" className="border-border hover:bg-muted">

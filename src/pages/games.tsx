@@ -30,7 +30,10 @@ export default function GamesPage() {
               My Games
             </motion.h1>
             <motion.p variants={fadeUp} custom={0.2} className="text-muted-foreground text-lg leading-relaxed">
-              A selection of Roblox experiences I've helped build — spanning obbies, tower defense, and simulation genres.
+              Games I own and scripted in full, alongside Roblox experiences I've contributed to.
+            </motion.p>
+            <motion.p variants={fadeUp} custom={0.3} className="mt-4 text-sm leading-relaxed text-primary">
+              Click a project card to see what I contributed and when I worked on it.
             </motion.p>
           </motion.div>
 
